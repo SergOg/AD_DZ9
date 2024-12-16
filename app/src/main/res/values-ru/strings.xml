@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicQUIZ</string>
+    <string name="button_text">Начать</string>
+    <string name="date_of_birth">Введите вашу дату рождения</string>
+    <string name="back">Назад</string>
+    <string name="button_quiz_text">Отправить</string>
+    <string name="button_result_text">Начать заново</string>
+
+    <string name="image_description">welcome image</string>
+    <string name="Welcome_text">Приветствуем!</string>
+    <string name="music_quiz">MUSIC QUIZ</string>
+    <string name="result_title">Поздравляем!\nВаш результат:</string>
+
+    <string name="question_1">Сколько участников в pop группе BTS?</string>
+    <string name="answer_to_1_1">0</string>
+    <string name="answer_to_1_2">7</string>
+
+    <string name="question_2">Как называется лейбл звукозаписи chief keef-a?</string>
+    <string name="answer_to_2_1">GLO GANG</string>
+    <string name="answer_to_2_2">DRAIN GANG</string>
+
+    <string name="question_3">Настоящее имя исполнителя Blood Orange?</string>
+    <string name="answer_to_3_1">Devonté Hynes</string>
+    <string name="answer_to_3_2">Rakim Athelaston Mayers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

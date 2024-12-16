@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MusicQUIZ</string>
+    <string name="button_text">Start</string>
+    <string name="date_of_birth">Enter the date of birth</string>
+    <string name="back">Back</string>
+    <string name="button_quiz_text">Submit</string>
+    <string name="button_result_text">Start again</string>
+
+    <string name="image_description">welcome image</string>
+    <string name="Welcome_text">Welcome!</string>
+    <string name="music_quiz">MUSIC QUIZ</string>
+    <string name="result_title">Congratulations!\nYour result is:</string>
+
+    <string name="question_1">How many members are in the BTS pop group?</string>
+    <string name="answer_to_1_1">0</string>
+    <string name="answer_to_1_2">7</string>
+
+    <string name="question_2">What is the name of the record label chief keef-a?</string>
+    <string name="answer_to_2_1">GLO GANG</string>
+    <string name="answer_to_2_2">DRAIN GANG</string>
+
+    <string name="question_3">Is the real name of the artist Blood Orange?</string>
+    <string name="answer_to_3_1">Devonte Hynes</string>
+    <string name="answer_to_3_2">Rakim Athelaston Mayers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
